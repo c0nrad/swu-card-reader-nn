@@ -1,0 +1,1 @@
+See [blog post](https://blog.c0nrad.io/posts/swu-card-nn-p1) for details.
